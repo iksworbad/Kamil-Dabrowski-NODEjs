@@ -8,6 +8,7 @@ Program is made public on git and heroku.
 Heroku: https://guarded-thicket-42470.herokuapp.com/
 GIT: https://github.com/iksworbad/Kamil-Dabrowski-netguru
 
+I used visual studio Code to write this.
 I recoment to use chrome Postman to send "post" and "get" request.
 
 My REST API have:  (here you have example of requests)
