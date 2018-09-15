@@ -6,8 +6,9 @@ const request = require('request');
 const functions = require('../middleware/function');
 
 router.get('/', async (req, res) => {
-  const movies = await Movie.find().limit()
-                            .sort({Title: -1}) ;
+  const movies = await Movie.find().select({Title: 1, Year: 1, Runtime: 1, Genre: 1})
+                            .sort({Title: -1});
+                            
   res.send(movies);
 });
 
