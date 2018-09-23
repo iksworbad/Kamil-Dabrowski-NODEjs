@@ -6,7 +6,7 @@ I make that program in node.js as a part of the recruitment process to netguru. 
 Program is made public on git and heroku. 
 
 Heroku: https://guarded-thicket-42470.herokuapp.com/
-GIT: https://github.com/iksworbad/Kamil-Dabrowski-netguru
+GIT: https://github.com/iksworbad/Kamil-Dabrowski-NODEjs
 
 I used visual studio Code to write this.
 I recoment to use chrome Postman to send "post" and "get" request.
